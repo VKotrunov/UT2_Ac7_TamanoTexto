@@ -38,7 +38,6 @@
                 <TransformGroup>
                     <ScaleTransform ScaleX="3"
                                     ScaleY="3" />
-                    <SkewTransform />
                 </TransformGroup>
             </RadioButton.RenderTransform>
         </RadioButton>
@@ -55,7 +54,6 @@
                 <TransformGroup>
                     <ScaleTransform ScaleX="3"
                                     ScaleY="3" />
-                    <SkewTransform />
                 </TransformGroup>
             </RadioButton.RenderTransform>
         </RadioButton>
@@ -72,7 +70,6 @@
                 <TransformGroup>
                     <ScaleTransform ScaleX="3"
                                     ScaleY="3" />
-                    <SkewTransform />
                 </TransformGroup>
             </RadioButton.RenderTransform>
         </RadioButton>
