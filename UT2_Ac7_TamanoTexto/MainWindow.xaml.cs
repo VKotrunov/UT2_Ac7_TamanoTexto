@@ -14,7 +14,7 @@ namespace UT2_Ac7_TamanoTexto
 
         private void RadioButton_Checked(object sender, RoutedEventArgs e)
         {
-            textoTextBlock.FontSize = double.Parse((sender as RadioButton).Tag.ToString());
+            textoTextBlock.FontSize = int.Parse((sender as RadioButton).Tag.ToString());
         }
     }
 }
